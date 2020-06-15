@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c351275-bc6a-4354-9256-2d592f83f1e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/qa/tokyo/DisplayDashboard/master/Designation/Designation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/qa/tokyo/DisplayDashboard/master/Designation/Designation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/qa/tokyo/DisplayDashboard/master/MasterClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/qa/tokyo/DisplayDashboard/master/MasterClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/qa/tokyo/DisplayDashboard/master/plant/PlantPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/qa/tokyo/DisplayDashboard/master/plant/PlantPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/Designation/DesignationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Designation/DesignationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/plant/PlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/plant/PlantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/test/concreeteMixTest/ConcreteMixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/test/concreeteMixTest/ConcreteMixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/testdata/UserDetailsDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/testdata/UserDetailsDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-automation-training-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/ui-automation-training-log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-automation-training.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dL9YhtzPS12KKQJfC2iyUfFV95" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginTest.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.test.LoginTest" />
+      <option name="METHOD_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c351275-bc6a-4354-9256-2d592f83f1e7" name="Default Changelist" comment="" />
+      <created>1592193555724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592193555724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592196069436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592196069436" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592196069436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592196069436" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592196069436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592196069436" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592196069436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592196069436" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1592195074393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1592195074393" />
+  </component>
+</project>

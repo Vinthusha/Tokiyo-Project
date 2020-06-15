@@ -1,0 +1,254 @@
+2020-05-29 08:31:28 INFO  TestBase:27 - Initiate Browser
+2020-05-29 08:31:39 INFO  TestBase:33 - Browser Initiated
+2020-05-29 08:31:39 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-05-29 08:31:39 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@1c3a4799] output={null}]
+2020-05-29 08:31:39 INFO  TestBase:48 - Closing Browser
+2020-05-29 08:31:40 INFO  TestBase:50 - Browser Closed
+2020-05-29 08:32:14 INFO  TestBase:27 - Initiate Browser
+2020-05-29 08:32:21 INFO  TestBase:33 - Browser Initiated
+2020-05-29 08:32:21 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-05-29 08:32:21 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@3fd7a715] output={null}]
+2020-05-29 08:32:21 INFO  TestBase:48 - Closing Browser
+2020-05-29 08:32:22 INFO  TestBase:50 - Browser Closed
+2020-05-29 08:32:47 INFO  TestBase:27 - Initiate Browser
+2020-05-29 08:32:53 INFO  TestBase:33 - Browser Initiated
+2020-05-29 08:32:53 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-05-29 08:33:02 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@3fd7a715] output={null}]
+2020-05-29 08:33:02 INFO  TestBase:48 - Closing Browser
+2020-05-29 08:33:03 INFO  TestBase:50 - Browser Closed
+2020-05-29 08:34:24 INFO  TestBase:27 - Initiate Browser
+2020-05-29 08:34:31 INFO  TestBase:33 - Browser Initiated
+2020-05-29 08:34:31 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-05-29 08:34:38 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@694e1548] output={null}]
+2020-05-29 08:34:38 INFO  TestBase:48 - Closing Browser
+2020-05-29 08:34:39 INFO  TestBase:50 - Browser Closed
+2020-05-29 08:37:14 INFO  TestBase:27 - Initiate Browser
+2020-05-29 08:37:20 INFO  TestBase:33 - Browser Initiated
+2020-05-29 08:37:20 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-05-29 08:37:28 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@6a79c292] output={null}]
+2020-05-29 08:37:28 INFO  TestBase:48 - Closing Browser
+2020-05-29 08:37:30 INFO  TestBase:50 - Browser Closed
+2020-06-11 11:20:21 INFO  TestBase:27 - Initiate Browser
+2020-06-11 11:20:42 INFO  TestBase:33 - Browser Initiated
+2020-06-11 11:20:42 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-11 11:20:42 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@76707e36] output={null}]
+2020-06-11 11:20:42 INFO  TestBase:48 - Closing Browser
+2020-06-11 11:20:43 INFO  TestBase:50 - Browser Closed
+2020-06-11 11:22:56 INFO  TestBase:27 - Initiate Browser
+2020-06-11 11:23:16 INFO  TestBase:33 - Browser Initiated
+2020-06-11 11:23:16 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-11 11:23:17 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@694e1548] output={null}]
+2020-06-11 11:23:17 INFO  TestBase:48 - Closing Browser
+2020-06-11 11:23:18 INFO  TestBase:50 - Browser Closed
+2020-06-11 15:00:15 INFO  TestBase:27 - Initiate Browser
+2020-06-11 15:00:19 INFO  TestBase:33 - Browser Initiated
+2020-06-11 15:00:19 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-11 15:00:20 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@3fd7a715] output={null}]
+2020-06-11 15:00:20 INFO  TestBase:48 - Closing Browser
+2020-06-11 15:00:21 INFO  TestBase:50 - Browser Closed
+2020-06-12 09:50:31 INFO  TestBase:27 - Initiate Browser
+2020-06-12 09:50:39 INFO  TestBase:33 - Browser Initiated
+2020-06-12 09:50:39 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 09:50:40 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@64729b1e] output={null}]
+2020-06-12 09:50:40 INFO  TestBase:48 - Closing Browser
+2020-06-12 09:50:41 INFO  TestBase:50 - Browser Closed
+2020-06-12 10:05:18 INFO  TestBase:27 - Initiate Browser
+2020-06-12 10:05:26 INFO  TestBase:33 - Browser Initiated
+2020-06-12 10:05:26 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 10:05:26 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@5a1c0542] output={null}]
+2020-06-12 10:05:26 INFO  TestBase:48 - Closing Browser
+2020-06-12 10:05:27 INFO  TestBase:50 - Browser Closed
+2020-06-12 10:07:02 INFO  TestBase:27 - Initiate Browser
+2020-06-12 10:07:10 INFO  TestBase:33 - Browser Initiated
+2020-06-12 10:07:10 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 10:07:16 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@30c15d8b] output={null}]
+2020-06-12 10:07:16 INFO  TestBase:48 - Closing Browser
+2020-06-12 10:07:17 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:04:20 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:04:45 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:04:45 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7494e528] output={null}]
+2020-06-12 11:04:45 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:06:56 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:08:08 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:08:51 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:08:51 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:08:51 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@6c49835d] output={null}]
+2020-06-12 11:08:51 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:08:56 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:19:15 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:19:39 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:19:39 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:19:39 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:19:39 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:19:41 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:21:57 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:22:17 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:22:17 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:23:28 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:23:28 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:23:44 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:28:47 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:29:17 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:29:17 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:29:19 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:29:19 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:29:22 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:32:56 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:33:15 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:33:15 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:33:17 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:33:17 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:33:20 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:34:04 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:34:21 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:34:21 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:34:22 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7494e528] output={null}]
+2020-06-12 11:34:22 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:34:25 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:34:39 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:34:56 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:34:56 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:34:57 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:34:57 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:35:00 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:35:11 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:35:29 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:35:29 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:35:29 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:35:29 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:35:32 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:37:39 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:38:03 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:38:03 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:38:03 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:38:03 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:38:06 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:39:08 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:39:25 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:39:25 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:39:26 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=FAILURE method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 11:39:26 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:39:26 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:42:31 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:43:05 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:43:05 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:43:06 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7494e528] output={null}]
+2020-06-12 11:43:06 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:43:06 INFO  TestBase:50 - Browser Closed
+2020-06-12 11:49:08 INFO  TestBase:27 - Initiate Browser
+2020-06-12 11:49:33 INFO  TestBase:33 - Browser Initiated
+2020-06-12 11:49:33 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 11:49:34 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7494e528] output={null}]
+2020-06-12 11:49:34 INFO  TestBase:48 - Closing Browser
+2020-06-12 11:49:34 INFO  TestBase:50 - Browser Closed
+2020-06-12 12:11:00 INFO  TestBase:27 - Initiate Browser
+2020-06-12 12:11:25 INFO  TestBase:33 - Browser Initiated
+2020-06-12 12:11:25 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 12:11:28 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@6c49835d] output={null}]
+2020-06-12 12:11:28 INFO  TestBase:48 - Closing Browser
+2020-06-12 12:11:28 INFO  TestBase:50 - Browser Closed
+2020-06-12 12:17:37 INFO  TestBase:27 - Initiate Browser
+2020-06-12 12:17:58 INFO  TestBase:33 - Browser Initiated
+2020-06-12 12:17:58 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 12:18:00 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@6c49835d] output={null}]
+2020-06-12 12:18:00 INFO  TestBase:48 - Closing Browser
+2020-06-12 12:18:00 INFO  TestBase:50 - Browser Closed
+2020-06-12 12:20:23 INFO  TestBase:27 - Initiate Browser
+2020-06-12 12:20:49 INFO  TestBase:33 - Browser Initiated
+2020-06-12 12:20:49 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 12:20:51 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 12:20:51 INFO  TestBase:48 - Closing Browser
+2020-06-12 12:20:51 INFO  TestBase:50 - Browser Closed
+2020-06-12 12:26:24 INFO  TestBase:27 - Initiate Browser
+2020-06-12 12:26:50 INFO  TestBase:33 - Browser Initiated
+2020-06-12 12:26:50 INFO  TestBase:43 - Test name: HrmLoginTest
+2020-06-12 12:26:59 INFO  TestBase:55 - Executed test case name:HrmLoginTest Execution Results : [TestResult name=HrmLoginTest status=SUCCESS method=LoginTest.HrmLoginTest()[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 12:26:59 INFO  TestBase:48 - Closing Browser
+2020-06-12 12:26:59 INFO  TestBase:50 - Browser Closed
+2020-06-12 14:54:00 INFO  LoginData:21 - row = 6 columns = 2
+2020-06-12 14:54:00 INFO  TestBase:27 - Initiate Browser
+2020-06-12 14:54:43 INFO  TestBase:33 - Browser Initiated
+2020-06-12 14:54:43 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 14:55:02 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@5a8806ef] output={null}]
+2020-06-12 14:55:02 INFO  TestBase:48 - Closing Browser
+2020-06-12 14:55:02 INFO  TestBase:50 - Browser Closed
+2020-06-12 14:55:02 INFO  TestBase:27 - Initiate Browser
+2020-06-12 14:56:26 INFO  LoginData:21 - row = 6 columns = 2
+2020-06-12 14:56:26 INFO  TestBase:27 - Initiate Browser
+2020-06-12 14:56:49 INFO  TestBase:33 - Browser Initiated
+2020-06-12 14:56:49 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 14:57:24 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@9660f4e] output={null}]
+2020-06-12 14:57:24 INFO  TestBase:48 - Closing Browser
+2020-06-12 14:59:46 INFO  LoginData:21 - row = 6 columns = 2
+2020-06-12 14:59:46 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:00:06 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:00:06 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:00:34 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 15:00:34 INFO  TestBase:48 - Closing Browser
+2020-06-12 15:17:01 INFO  LoginData:21 - row = 6 columns = 2
+2020-06-12 15:17:01 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:17:21 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:17:21 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:17:37 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@67205a84] output={null}]
+2020-06-12 15:17:37 INFO  TestBase:48 - Closing Browser
+2020-06-12 15:17:40 INFO  TestBase:50 - Browser Closed
+2020-06-12 15:17:40 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:27:17 INFO  LoginData:21 - row = 6 columns = 2
+2020-06-12 15:27:17 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:27:34 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:27:34 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:29:35 INFO  LoginData:21 - row = 6 columns = 2
+2020-06-12 15:29:35 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:29:54 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:29:54 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:31:58 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:32:15 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:32:15 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:32:24 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@5a8806ef] output={null}]
+2020-06-12 15:32:24 INFO  TestBase:48 - Closing Browser
+2020-06-12 15:51:15 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:51:44 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:51:44 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:53:24 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:53:45 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:53:45 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:59:00 INFO  TestBase:27 - Initiate Browser
+2020-06-12 15:59:21 INFO  TestBase:33 - Browser Initiated
+2020-06-12 15:59:21 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 15:59:43 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 15:59:43 INFO  TestBase:48 - Closing Browser
+2020-06-12 15:59:48 INFO  TestBase:50 - Browser Closed
+2020-06-12 15:59:48 INFO  TestBase:27 - Initiate Browser
+2020-06-12 16:00:03 INFO  TestBase:33 - Browser Initiated
+2020-06-12 16:00:03 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 16:00:06 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=SUCCESS method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@7c29daf3] output={null}]
+2020-06-12 16:00:06 INFO  TestBase:48 - Closing Browser
+2020-06-12 16:00:09 INFO  TestBase:50 - Browser Closed
+2020-06-12 16:00:56 INFO  TestBase:27 - Initiate Browser
+2020-06-12 16:01:15 INFO  TestBase:33 - Browser Initiated
+2020-06-12 16:01:15 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 16:01:37 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@5a8806ef] output={null}]
+2020-06-12 16:01:37 INFO  TestBase:48 - Closing Browser
+2020-06-12 16:01:39 INFO  TestBase:50 - Browser Closed
+2020-06-12 16:01:39 INFO  TestBase:27 - Initiate Browser
+2020-06-12 16:01:54 INFO  TestBase:33 - Browser Initiated
+2020-06-12 16:01:54 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 16:01:56 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=SUCCESS method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@5a8806ef] output={null}]
+2020-06-12 16:01:56 INFO  TestBase:48 - Closing Browser
+2020-06-12 16:02:00 INFO  TestBase:50 - Browser Closed
+2020-06-12 16:12:06 INFO  LoginData:21 - row = 2 columns = 2
+2020-06-12 16:12:06 INFO  TestBase:27 - Initiate Browser
+2020-06-12 16:12:29 INFO  TestBase:33 - Browser Initiated
+2020-06-12 16:12:29 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 16:12:43 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@5a8806ef] output={null}]
+2020-06-12 16:12:43 INFO  TestBase:48 - Closing Browser
+2020-06-12 16:21:14 INFO  LoginData:21 - row = 2 columns = 2
+2020-06-12 16:21:14 INFO  TestBase:27 - Initiate Browser
+2020-06-12 16:21:33 INFO  TestBase:33 - Browser Initiated
+2020-06-12 16:21:33 INFO  TestBase:43 - Test name: LoginTest
+2020-06-12 16:22:29 INFO  TestBase:55 - Executed test case name:LoginTest Execution Results : [TestResult name=LoginTest status=FAILURE method=LoginTest.LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.test.qa.test.LoginTest@5a8806ef] output={null}]
+2020-06-12 16:22:29 INFO  TestBase:48 - Closing Browser
+2020-06-15 09:58:03 INFO  LoginData:21 - row = 2 columns = 2
+2020-06-15 09:58:04 INFO  TestBase:28 - Initiate Browser
+2020-06-15 09:58:21 INFO  TestBase:35 - Browser Initiated
+2020-06-15 09:58:21 INFO  TestBase:49 - Test name: LoginTest
